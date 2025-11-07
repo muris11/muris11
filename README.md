@@ -317,61 +317,6 @@ export default rifqy;
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
-
-<!-- Dinamically updated GitHub stats menggunakan berbagai API -->
-
-<div align="center">
-
-### 📈 GitHub Activity Overview
-
-<!-- GitHub Stats Card - Auto updates from your GitHub activity -->
-<img src="https://github-readme-stats.vercel.app/api?username=muris11&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muris11&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=muris11" alt="Top Languages" height="170" />
-
-</div>
-
-<div align="center">
-
-### 🔥 Contribution Streak
-
-<!-- Streak Stats - Auto updates daily -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muris11&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-### 📊 Contribution Graph
-
-<!-- Activity Graph - Shows your contribution patterns -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muris11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="95%" />
-
-</div>
-
-<div align="center">
-
-### 💻 Detailed GitHub Metrics
-
-<!-- Comprehensive GitHub Metrics - Auto generated -->
-
-![Metrics](https://metrics.lecoq.io/muris11?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&followup=1&lines=1&repositories=1&code=1&activity=1&achievements=1&notable=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&lines.sections=base&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FJakarta)
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<!-- Trophy Collection - Dynamically shows achievements -->
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muris11&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
 
 <div align="center">
