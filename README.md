@@ -59,7 +59,7 @@ const rifqy = {
 
   education: {
     institution: "Politeknik Negeri Indramayu (Polindra)",
-    gpa: "3.96/4.00" as const,
+    gpa: "3.97/4.00" as const,
     status: "🎓 Active Student",
   },
 
