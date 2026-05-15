@@ -1,306 +1,556 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Muhammad%20Rifqy%20Saputra&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Flutter%20Developer&descSize=16&descAlignY=55&descColor=58a6ff" />
+<!-- 🌊 Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Muhammad%20Rifqy%20Saputra&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=32&desc=Full+Stack+Developer+%7C+AI+Enthusiast+%7C+Flutter+Dev&descSize=18&descAlignY=52&descColor=58a6ff&fontAlign=50" />
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+intelligent+web+%26+mobile+solutions;GPA+3.97%2F4.00+%7C+Politeknik+Negeri+Indramayu;Laravel+%7C+Next.js+%7C+Flutter+%7C+FastAPI;Open+to+Work+%26+Collaboration" alt="Typing SVG" />
+<!-- ⌨️ Animated Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono:wght@500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Building+intelligent+web+%26+mobile+solutions;GPA+3.97%2F4.00+%7C+Politeknik+Negeri+Indramayu;Laravel+%E2%80%A2+Next.js+%E2%80%A2+Flutter+%E2%80%A2+FastAPI;Available+for+Work+%26+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- Profile Badges -->
+<br/><br/>
+
+<!-- 🔗 Social Badges -->
+<a href="https://www.rifqysaputra.dev/">
+  <img src="https://img.shields.io/badge/-🌐_Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammad-rifqy-saputra/">
+  <img src="https://img.shields.io/badge/-💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/rfqy_sptr">
+  <img src="https://img.shields.io/badge/-📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:rifqysaputra1102@gmail.com">
+  <img src="https://img.shields.io/badge/-✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- 🏷️ Status Badges -->
 <p>
-  <a href="https://www.rifqysaputra.dev">
-    <img src="https://img.shields.io/badge/-rifqysaputra.dev-000?style=for-the-badge&logo=google-chrome&logoColor=58a6ff"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-rifqy-saputra/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/rfqy_sptr">
-    <img src="https://img.shields.io/badge/-@rfqy__sptr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:rifqysaputra1102@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-brightgreen?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQiMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAwaDIwdjIwSDB6IiBmaWxsPSIjMTZhMWVlIi8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/Based_in-Indonesia_%F0%9F%87%AE%F0%9F%87%A9-red?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=muris11&label=Profile%20Views&color=1f6feb&style=flat-square" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-58a6ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-red?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=muris11&label=Visitors&color=1f6feb&style=flat-square" />
-</p>
-
+<!-- 📊 GitHub Follow Stats -->
 <a href="https://github.com/muris11">
-  <img src="https://img.shields.io/github/followers/muris11?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/muris11?label=Follow%20me&style=social" />
+</a>
+&nbsp;
+<a href="https://github.com/muris11">
+  <img src="https://img.shields.io/github/stars/muris11?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social" />
 </a>
 
 </div>
 
-<!-- Divider -->
+<!-- ✨ Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+## 👋 Hello, I'm Muhammad Rifqy Saputra!
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ViNXNseGdka2ZhMTJxbDI3ZXd3a2xoaDZhbjgxOGdpejZpbnU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif" alt="Coding GIF" />
 
-Active 6th-semester student in **Smart City Information Systems** at Politeknik Negeri Indramayu with a GPA of **3.97/4.00**. Passionate about building real-world solutions through Full Stack Development, Machine Learning, and Mobile Apps.
+An active **6th-semester student** in Smart Information Systems at [Politeknik Negeri Indramayu](https://www.polindra.ac.id/) with a GPA of **3.97/4.00**. Passionate about building real-world solutions through Full Stack Development, Machine Learning, and Mobile Applications.
+
+Currently serving as **Head of Research & Development Division** at HIMA-SIKC (Student Association), leading programs to enhance students' academic and technical competencies. I specialize in crafting intelligent systems — from POS platforms for Indonesian MSMEs to medical diagnostic tools powered by fuzzy logic.
+
+🔭 **Currently Working On:** Full-stack web apps & AI integrations  
+🌱 **Learning:** Cloud Architecture, Microservices, Advanced ML  
+💬 **Ask Me About:** Laravel, Next.js, Flutter, REST APIs, AI Integration  
+⚡ **Fun Fact:** I build production-ready apps while maintaining a 3.97 GPA!
+
+---
+
+## 💻 My Code Card
 
 ```typescript
 const rifqy = {
+  name: "Muhammad Rifqy Saputra" as const,
   role: "Full Stack & Mobile Developer",
-  education: "D4 Smart City Information Systems - Polindra",
-  gpa: "3.97/4.00",
-  currentFocus: ["Laravel", "Next.js", "Flutter", "FastAPI", "AI Integration"],
-  languages: ["PHP", "JavaScript", "Dart", "Python", "Go", "Java", "C++"],
-  askMeAbout: ["Web Dev", "Mobile Apps", "AI/ML", "REST APIs"],
-  portfolio: "https://www.rifqysaputra.dev",
+  education: {
+    institution: "Politeknik Negeri Indramayu" as const,
+    major: "D4 Smart City Information Systems",
+    gpa: "3.97/4.00" as const,
+    period: "2023 - Present" as const,
+  },
+
+  contact: {
+    email: "rifqysaputra1102@gmail.com",
+    portfolio: "https://www.rifqysaputra.dev/" as const,
+    linkedin: "/in/muhammad-rifqy-saputra",
+    instagram: "@rfqy_sptr" as const,
+  },
+
+  currentlyWorking: {
+    on: ["NiagaFlow", "AI Study Planner", "RedCalender"],
+    with: ["Laravel 12", "Next.js 14", "Flutter 3.x", "FastAPI", "Supabase"],
+    learning: ["Microservices", "Cloud Native", "Advanced ML"],
+  },
+
+  expertise: [
+    "💻 Full Stack Web Development",
+    "📱 Cross-Platform Mobile Apps",
+    "🤖 AI & Fuzzy Logic Integration",
+    "🗄️ Database Architecture",
+    "☁️ Cloud Deployment",
+  ],
+
+  philosophy: "Building solutions that matter, one line at a time. ✨",
 };
 ```
 
-<details>
-<summary><b>🎯 What I'm Currently Doing</b></summary>
-<br>
+---
 
-- 🔭 Building **AI-powered applications** and **POS systems** for Indonesian MSMEs
-- 🌱 Deepening expertise in **Laravel 12**, **Next.js**, **Flutter**, and **FastAPI**
-- 🤝 Leading **R&D Division** at HIMA-SIKC (Student Association)
-- 💼 Open for **freelance**, **internship**, and **full-time** opportunities
-- 📫 Reach me at **rifqysaputra1102@gmail.com**
-
-</details>
-
-<!-- Divider -->
+<!-- ✨ Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## 🛠️ Tech Stack & Skills
+
+### 🧑‍💻 Languages
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,dart,python,go,java,cpp,html,css&perline=9" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=php,js,dart,python,go,java,cpp,html,css&perline=9" />
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,flutter,tailwind,bootstrap,fastapi&perline=7" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,sqlite,firebase,git,vscode,docker&perline=8" />
+### ⚙️ Frameworks & Libraries
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,flutter,tailwind,bootstrap,fastapi,firebase,nodejs&perline=9" />
+</div>
+
+### 🗄️ Databases & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,sqlite,docker,git,vscode&perline=7" />
 </div>
 
 <details>
-<summary><b>📋 Detailed Breakdown</b></summary>
-<br>
+<summary><b>📋 Complete Technology Breakdown</b></summary>
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | PHP, JavaScript, Dart, Python, Go, Java, C++, HTML, CSS |
-| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap, Alpine.js |
-| **Backend** | Laravel 12, FastAPI, Node.js, REST API |
-| **Mobile** | Flutter, Dart, Firebase Integration |
-| **Database** | MySQL, PostgreSQL, Supabase, SQLite, Firebase |
-| **AI/ML** | Google Gemini AI, Fuzzy Logic (Tsukamoto), FastAPI ML Services |
-| **Tools** | Git, Docker, VS Code, Laragon, XAMPP, Vercel |
-
-</details>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muris11&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=muris11&theme=github-dark-blue&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muris11&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-
-</div>
-
-<details>
-<summary><b>📊 More Analytics</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muris11&theme=github_dark" width="95%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muris11&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muris11&theme=github_dark" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muris11&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%" />
-
-</div>
+| Category | Technologies | Proficiency |
+|----------|-------------|-------------|
+| **Languages** | PHP, JavaScript, Dart, Python, Go, Java, C++, HTML/CSS | ⭐⭐⭐⭐☆ |
+| **Frontend** | React, Next.js, Vue.js, Tailwind CSS, Bootstrap, Alpine.js | ⭐⭐⭐⭐⭐ |
+| **Backend** | Laravel 12, FastAPI, Node.js, Express.js | ⭐⭐⭐⭐☆ |
+| **Mobile** | Flutter, Dart, Firebase SDK, Responsive UI | ⭐⭐⭐⭐⭐ |
+| **Database** | MySQL, PostgreSQL, Supabase, SQLite, Firebase | ⭐⭐⭐⭐☆ |
+| **AI/ML** | Google Gemini AI, Fuzzy Logic (Tsukamoto), FastAPI ML Services, Deep Learning Fundamentals | ⭐⭐⭐☆☆ |
+| **Tools** | Git, Docker, VS Code, Laragon, XAMPP, Vercel, Render, Railway | ⭐⭐⭐⭐☆ |
+| **Payment** | Midtrans Payment Gateway Integration | ⭐⭐⭐⭐☆ |
+| **Design** | Responsive Design, Modern UI/UX, Dashboard Development | ⭐⭐⭐☆☆ |
 
 </details>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muris11&theme=darkhub&no-frame=true&column=7&margin-w=10" width="95%" />
-</div>
+---
 
-<!-- Divider -->
+<!-- ✨ Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> Featured Projects
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=15%2B+Projects+%7C+10%2B+Live+Deployments+%7C+AI+Powered" alt="Projects" />
+<!-- Main Stats Cards -->
+<img width="49%" src="https://streak-stats.demolab.com?user=muris11&theme=github-dark-blue&hide_border=true&locale=en&mode=daily&type=weeks&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muris11&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" />
 
-</div>
+<!-- Top Languages & Repository Details -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muris11&layout=donut&theme=github_dark&hide_border=true&langs_count=10&custom_title=Languages%20Overview" alt="Top Languages" />
+&nbsp;
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muris11&theme=github_dark" alt="Summary Stats" />
 
-<div align="center">
+<!-- Summary Profile Details Card -->
+<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muris11&theme=github_dark" alt="Profile Details" />
 
-<a href="https://github.com/muris11/pos_ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=pos_ai&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/muris11/groupify-ai-nextjs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=groupify-ai-nextjs&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/muris11/AI-Study-Planner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=AI-Study-Planner&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/muris11/fuzzy-tsukamoto-disease-prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=fuzzy-tsukamoto-disease-prediction&theme=github_dark&hide_border=true" />
-</a>
+<!-- Repos per language & Most commit language -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muris11&theme=github_dark" alt="Repos Per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muris11&theme=github_dark" alt="Most Commit Language" />
+
+<!-- Productive Time -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muris11&theme=github_dark&utcOffset=7" alt="Productive Time" />
+
+<!-- Contribution Graph -->
+<img width="99%" src="https://github-readme-activity-graph.cyclic.app/graph?username=muris11&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
 
 </div>
 
 <details>
-<summary><b>🚀 All Featured Projects</b></summary>
-<br>
+<summary><b>🏆 GitHub Trophies</b></summary>
 
-### AI & Machine Learning
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| **NiagaFlow** | Modern POS & online store for Indonesian MSMEs | React, Laravel, MySQL, Tailwind | [Live](https://pos.getmuris.my.id/) |
-| **Groupora AI** | AI-powered team formation using Google Gemini | Next.js, Supabase, PostgreSQL, Gemini | [Live](https://grouporaai.getmuris.my.id/) |
-| **AI Study Planner** | Intelligent study scheduler with AI recommendations | Laravel 12, FastAPI, Python, MySQL | [Live](https://studyplannerai.getmuris.my.id/) |
-| **DiagnoFuzzy** | Disease prediction using Fuzzy Tsukamoto method | Flutter, Dart, FastAPI, Python | [Source](https://github.com/muris11/Fuzzy-Tsukamoto-Flutter) |
-| **Fuzzy Tsukamoto API** | Medical decision support REST API | Python, FastAPI, Fuzzy Logic | [Live](https://fuzzy-tsukamoto-disease-prediction.vercel.app/) |
-
-### Web Applications
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| **Gastronomi.id** | Event platform with backend migration Flask → Laravel | React, Laravel, MySQL | [Live](https://gastronomi.id) |
-| **Red Calender** | Women's health tracking platform | Next.js, Supabase, Tailwind CSS | [Live](https://redcalender.com) |
-| **MUNIR JAYA ABADI** | Agricultural e-commerce platform | Laravel 12, Tailwind, MySQL, Gemini | [Source](https://github.com/muris11/ecommerce_project2) |
-| **Falaah Tracking** | Muslim spiritual productivity tracker | Next.js, Grok API | [Live](https://falaah.vercel.app) |
-| **UMKM Jabar Portal** | MSME data portal for West Java | Next.js | [Live](https://umkmjabar.vercel.app) |
-| **Ecotrust Indramayu** | Smart City BI for environmental data | React | [Source](https://github.com/muris11) |
-
-### Mobile Applications
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **QTASK** | Academic task manager with PDF reports | Flutter, Dart, Firebase |
-| **CASHQ** | Personal finance tracker | Flutter, Dart, Firebase Auth |
-| **APP Ecommerce MJA** | E-commerce mobile app | Flutter, Dart, Firebase |
-| **DiagnoFuzzy App** | Disease prediction mobile app | Flutter, Dart, REST API |
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muris11&theme=darkhub&no-frame=true&margin-w=15&column=7&row=1" />
+</div>
 
 </details>
 
-<!-- Divider -->
+---
+
+<!-- ✨ Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> Experience
+## 🚀 Featured Projects
 
-| Role | Organization | Period |
-|------|-------------|--------|
-| **Head of R&D Division** | HIMA-SIKC, Politeknik Negeri Indramayu | Aug 2024 – Jul 2025 |
-| **General Secretary** | Mahasiswa Jabodetabek Polindra | Jun 2024 – Jun 2025 |
-| **Young Staff, Foreign Affairs** | BEM Politeknik Negeri Indramayu | 2023 – 2024 |
-| **Internship** | Universitas Telkom Purwokerto | Jan 2022 – Apr 2022 |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=15%2B+Projects+Built%EF%BD%9C10%2B+Live+Deployments%EF%BD%9CAI%2B-Powered+Solutions" alt="Project Stats" />
+</p>
 
-<!-- Divider -->
+### 🤖 AI-Powered & Intelligent Systems
+
+<table width="100%"><tr><td width="50%">
+
+#### Groupora AI - Team Formation Platform
+*Intelligent team formation using Google Gemini AI*
+
+- **Tech:** Next.js, Supabase, PostgreSQL, Gemini AI, Tailwind
+- **Features:** Auto-grouping, smart recommendations, export PDF/CSV
+- **[Live Demo](https://groupify.getmuris.my.id/)** | [Source](https://github.com/muris11/groupify)
+- ![Groupora](https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=groupify&theme=github_dark&hide_border=true)
+
+</td><td width="50%">
+
+#### AI Study Planner
+*Personalized study scheduling with intelligent task prioritization*
+
+- **Tech:** Laravel 12, FastAPI, Python, MySQL, Tailwind
+- **Features:** Smart deadline analysis, priority scoring, schedule optimization
+- **[Live Demo](https://studyplanner.getmuris.my.id/)** | [Source](https://github.com/muris11/AI-Study-Planner)
+- ![Study Planner](https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=AI-Study-Planner&theme=github_dark&hide_border=true)
+
+</td></tr><tr><td width="50%">
+
+#### Fuzzy Tsukamoto Disease Prediction
+*Medical diagnosis system with fuzzy logic inference (Tsukamoto)*
+
+- **Tech:** Python, FastAPI, Fuzzy Logic, Machine Learning
+- **Features:** Multi-disease prediction, confidence scores, REST API
+- **[Live API](https://fuzzycalculator.getmuris.my.id/)** | [Source](https://github.com/muris11/fuzzy-tsukamoto-disease-prediction)
+- ![Fuzzy API](https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=fuzzy-tsukamoto-disease-prediction&theme=github_dark&hide_border=true)
+
+</td><td width="50%">
+
+#### Fuzzy Tsukamoto App (Flutter)
+*Cross-platform disease prediction mobile application*
+
+- **Tech:** Flutter, Dart, REST API Integration
+- **Features:** Real-time diagnosis, symptom tracking, clean UI
+- [Source](https://github.com/muris11/fuzzytsukomoto_app)
+- ![Flutter App](https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=fuzzytsukomoto_app&theme=github_dark&hide_border=true)
+
+</td></tr></table>
+
+---
+
+### 💼 Business Solutions & E-Commerce
+
+<table width="100%"><tr><td width="50%">
+
+#### NiagaFlow - POS System
+*Complete point-of-sale system with payment integration for MSMEs*
+
+- **Tech:** Laravel 12, Alpine.js, Tailwind CSS, MySQL, Midtrans
+- **Features:** Sales analytics, inventory management, staff roles
+- **[Live Demo](https://niagaflow.getmuris.my.id)** | [Source](https://github.com/muris11/pos_ai)
+- ![Pos](https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=pos_ai&theme=github_dark&hide_border=true)
+
+</td><td width="50%">
+
+#### Munir Jaya Abadi - Agricultural E-Commerce
+*Agricultural supplies e-commerce platform with product catalog*
+
+- **Tech:** Laravel 12, Blade Templates, MySQL
+- **Features:** Brand/category navigation, reviews, WhatsApp integration
+- **[Live Site](https://munirjayaabadi.getmuris.my.id)**
+
+</td></tr><tr><td width="50%">
+
+#### RedCalender - Women's Health Tracker
+*Trusted women's health and menstrual cycle tracking platform*
+
+- **Tech:** Next.js, Supabase, API Integration, Tailwind CSS
+- **Features:** Secure data, privacy-focused, cycle predictions
+- **[Live Demo](https://redcalender.com/)**
+
+</td><td width="50%">
+
+#### Ecommerce Project
+*Online store with modern responsive design*
+
+- **Tech:** Laravel, PHP, MySQL
+- **Features:** Shopping cart, order tracking, admin panel
+- [Source](https://github.com/muris11/Ecommerce_Project)
+
+</td></tr></table>
+
+---
+
+### 🎓 Educational Platforms & Community Apps
+
+<table width="100%"><tr><td width="50%">
+
+#### Mini Library Smart City
+*Digital library management system for smart city initiatives*
+
+- **Tech:** Laravel 12, Tailwind CSS, MySQL
+- **Features:** Book catalog, member dashboard, borrowing analytics
+- **[Live Demo](https://minilibrary.sikcb.my.id/login)** | [Source](https://github.com/muris11/minilibrary-smartcity)
+
+</td><td width="50%">
+
+#### SIKCB 2023 - Student Portal
+*Interactive learning portal for SIKCB community members*
+
+- **Tech:** PHP, JavaScript, CSS, MySQL
+- **Features:** Albums gallery, activity feeds, material sharing
+- **[Live Demo](https://sikcb.my.id/)** | [Source](https://github.com/muris11/SIKCB-2023)
+
+</td></tr><tr><td width="50%">
+
+#### Budget Planner Tool
+*Financial management solution for personal budgeting needs*
+
+- **Tech:** HTML, CSS, Vanilla JavaScript, JSON
+- **Features:** Expense tracking, savings goals, collaborative sharing
+- **[Live Demo](https://smartbudgetplanner.page.gd/)** | [Source](https://github.com/muris11/BudgetPlannerTool)
+
+</td><td width="50%">
+
+#### Task Manager / Personal Finance
+*Task management with intuitive drag-and-drop interface*
+
+- **Tech:** HTML, CSS, JavaScript
+- **Features:** Task organization, categories, productivity metrics
+- [Source](https://github.com/muris11/task-manager)
+
+</td></tr></table>
+
+<details>
+<summary><b>📦 More Projects & Utilities</b></summary>
+
+#### 🔹 Other Notable Projects
+
+- **SmartBudget** — Financial planning app with expense categorization
+- **Mahasiswa Aspirasi Digital** — Student voice aggregation platform ([Live](http://mahasiswadigital.infinityfreeapp.com/))
+- **Modern Portfolio Website** — Clean responsive landing page portfolio ([Source](https://github.com/muris11/modern-portofolio-muhammadrifqysaputra))
+- And many more experimental projects across multiple repositories...
+
+</details>
+
+---
+
+<!-- ✨ Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎓 Education
+## 🏢 Professional Experience
+
+| Role | Organization | Period | Key Responsibilities |
+|------|-------------|--------|---------------------|
+| **Head of Research & Development** | HIMA-SIKC, Politeknik Negeri Indramayu | Aug 2024 – Jul 2025 | Led Academic & Achievement sub-divisions • Developed talent identification frameworks • Organized internal competitions & external team preparation |
+| **General Secretary** | Mahasiswa Jabodetabek Polindra | Jun 2024 – Jun 2025 | Managed organizational documentation • Coordinated inter-department communication • Planned monthly/annual meetings & events • Supported program execution |
+| **Intern – Lab Assistant** | Universitas Telkom Purwokerto | Jan 2022 – Apr 2022 | Assisted lab operations & equipment maintenance • Arduino microcontroller programming • Computer hardware assembly & troubleshooting • UPS system & Raspberry Pi exploration |
+| **Young Staff Member** | BEM Polindra (Foreign Affairs Division) | 2023 – 2024 | External relations support • Event coordination • Organizational liaison |
+
+---
+
+<!-- ✨ Divider Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎓 Education Journey
 
 <div align="center">
 
-| Institution | Program | Period | GPA |
-|-------------|---------|--------|-----|
-| **Politeknik Negeri Indramayu** | D4 Smart City Information Systems | 2023 – 2027 | **3.97/4.00** |
-| **SMKS Telekomunikasi Telesandi** | Computer & Network Engineering | 2020 – 2023 | — |
+| Institution | Program | Duration | Notes |
+|-------------|---------|----------|-------|
+| **🏫 SDN Wanasari 01** | Primary School | 2011 – 2017 | Strong foundation in academics & character development |
+| **🏫 SMPN 06 Cibitung** | Junior High School | 2017 – 2020 | Active in Scouts (Pramuka) & traditional dance performances |
+| **🏫 SMKS Telekomunikasi Telesandi Bekasi** | TKJ - Computer & Network Engineering | 2020 – 2023 | Completed Mikrotik Competency Test (UKK) • Final project: Temperature/Humidity IoT Monitor with Arduino Uno + DHT11 • Accepted via SNBP to Polindra |
+| **🎓 Politeknik Nageri Indramayu** | D4 Smart City Information Systems | 2023 – Present | GPA **3.97/4.00** • Multiple leadership roles |
 
 </div>
 
-<!-- Divider -->
+---
+
+<!-- ✨ Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📜 Certifications
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
-| Certificate | Issuer |
-|-------------|--------|
-| Belajar Back-End Pemula dengan JavaScript | Dicoding |
-| Belajar Fundamental Deep Learning | Pijak x IBM SkillsBuild by Dicoding |
-| Membangun Sistem Machine Learning | Pijak by Dicoding |
-| AI Praktis untuk Produktivitas | Dicoding |
+| Certificate | Issuer | Description |
+|-------------|--------|-------------|
+| 📜 Belajar Back-End Pemula dengan JavaScript | Dicoding Indonesia | Foundational backend principles with JavaScript |
+| 📜 Fundamental Deep Learning | Pijak x IBM SkillsBuild 2024 | Neural networks architecture & training fundamentals |
+| 📜 Membangun Sistem Machine Learning | Pijak by Dicoding | Building end-to-end ML pipelines & model deployment |
+| 📜 AI Praktis untuk Produktivitas | Dicoding Indonesia | Practical AI applications for workflow enhancement |
 
-> View all certifications at [rifqysaputra.dev/certificates](https://www.rifqysaputra.dev/certificates)
+*[View all certifications →](https://rifqysaputra.dev/certificates)*
 
 </div>
 
-<!-- Divider -->
+---
+
+<!-- ✨ Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Contribution Graph
+## 🎯 Project Highlight Table
+
+| Project Name | Description | Status | Tech Stack | Link |
+|----|----|----|----|----|
+| NiagaFlow | POS system & online store for SMEs | ✅ Live | Laravel, Alpine.js, MySQL, Midtrans | [→](https://niagaflow.getmuris.my.id/) |
+| Groupora AI | Intelligent team formation with Gemini AI | ✅ Live | Next.js, Supabase, Gemini, Tailwind | [→](https://groupora.getmuris.my.id/) |
+| AI Study Planner | Automatic study schedule generator | ✅ Live | Laravel, FastAPI, Tailwind | [→](https://studyplanner.getmuris.my.id/) |
+| Mini Library | Smart city digital library system | ✅ Live | Laravel 12, Tailwind | [→](https://minilibrary.sikcb.my.id/) |
+| SIKCB 2023 | Interactive student community portal | ✅ Live | PHP, JS, CSS | [→](https://sikcb.my.id/) |
+| RedCalender | Women's reproductive health platform | ✅ Live | Next.js, Supabase, Tailwind | [→](https://redcalender.com/) |
+| Diet & Meal Tracker | Nutritional monitoring with diet plans | Prototype | Laravel 12, Supabase, API | - |
+| Munir Jaya Abadi | Agricultural supply marketplace | ✅ Live | Laravel, Tailwind | [→](https://munirjayaabadi.getmuris.my.id/) |
+| Ecommerce Platform | Shopping cart & sales management | In Progress | Laravel, MySQL | - |
+| Mahasi Digital | Student voice aggregation hub | Prototype | HTML, CSS, JS | - |
+
+---
+
+<!-- ✨ Divider Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 Impact Overview
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/muris11/muris11/output/github-contribution-grid-snake-dark.svg)
+| Metric | Value | Icon |
+|--------|-------|--|
+| 🚀 Total Projects Built | 15+ | ![rocket](https://img.shields.io/badge/-15_Built-success?style=flat-square) |
+| 🌐 Live Deployments | 10+ | ![deploy](https://img.shields.io/badge/-10_Deployed-brightgreen?style=flat-square) |
+| 🤖 AI Integrations | 4 | ![ml](https://img.shields.io/badge/-4_AI_Models-blueviolet?style=flat-square) |
+| 💼 Business Applications | 3 | ![business](https://img.shields.io/badge/-3_Biz_Apps-orange?style=flat-square) |
+| 🎓 Educational Platforms | 5 | ![edu](https://img.shields.io/badge/-5_Edu_Platforms-purple?style=flat-square) |
+| 📱 Programming Languages | 7+ | ![lang](https://img.shields.io/badge/-7_Languages-yellow?style=flat-square) |
+| 📈 Estimated Users Impacted | 1000+ | ![users](https://img.shields.io/badge/-1000_Users-red?style=flat-square) |
 
 </div>
 
-<!-- Divider -->
+---
+
+<!-- ✨ Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Connect With Me
+## 📈 Weekly Coding Activity
 
 <div align="center">
 
-<a href="https://www.rifqysaputra.dev">
-  <img src="https://img.shields.io/badge/Portfolio-rifqysaputra.dev-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammad-rifqy-saputra/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rifqy%20Saputra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/rfqy_sptr">
-  <img src="https://img.shields.io/badge/Instagram-@rfqy__sptr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/muris11">
-  <img src="https://img.shields.io/badge/GitHub-muris11-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:rifqysaputra1102@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rifqysaputra1102-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<!-- WakaTime Badge Placeholder -->
+💡 *Connect [WakaTime](https://wakatime.com/) to display live coding statistics!*
+
+To enable this section:
+1. Sign up at wakatime.com
+2. Install the VS Code extension
+3. Add `WAKATIME_API_KEY` to your repository secrets
+4. The action will auto-update this section weekly
 
 </div>
 
-<!-- Divider -->
+---
+
+<!-- ✨ Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💬 Dev Quote
+## 🎨 Portfolio Highlights
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Why Are My Projects Different?
+
+| Feature | What It Means | Emoji |
+|---------|--------------|-------|
+| **AI Integration** | Leveraging Gemini AI & fuzzy logic for real decision-making capabilities | 🤖 |
+| **Mobile Ready** | Many projects feature both desktop and Flutter mobile interfaces | 📱 |
+| **Payment Support** | Midtrans integration means my apps can process real transactions | 💳 |
+| **Security Focus** | Industry-standard auth practices & data encryption | 🔒 |
+| **User-Centric** | Every app designed around actual user workflows & needs | ❤️‍🔥 |
+| **Production Ready** | No toy projects — everything is live & functioning! | ✅ |
+
+### My Development Philosophy
+
+> *"Code is like humor — when you have to explain it, it’s bad."* – Cory House  
+> *"First solve the problem, then write the code."* – John Johnson
+
+✅ Always follow best practices  
+✅ Write clean, maintainable code  
+✅ Keep learning new technologies daily  
+✅ Share knowledge with community  
 
 </div>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer&animation=twinkling" />
+---
+
+<!-- ✨ Divider Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=8b949e&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+Let's+build+together." alt="Footer" />
+![Snake](https://raw.githubusercontent.com/muris11/muris11/output/github-contribution-grid-snake.svg)
 
-<br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=muris11&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
+---
 
-**Made with dedication by [Muhammad Rifqy Saputra](https://www.rifqysaputra.dev)**
+<!-- ✨ Divider Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 Open for Collaboration
+
+I’m always excited to work on innovative projects! Whether it’s:
+
+✨ **Open Source Contributions**  
+🤖 **AI-Powered Applications**   
+💻 **Full Stack Web Development**  
+📱 **Cross-Platform Mobile Apps**  
+🛒 **Business Solutions & E-Commerce**  
+🎓 **Academic Research Projects**    
+
+Feel free to reach out — let's build something amazing together! 🚀
+
+---
+
+<!-- ✨ Divider Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📬 Connect With Me
+
+<div align="center">
+
+| Platform | Link | Badge |
+|----------|------|-------|
+| 🌐 **Portfolio** | [rifqysaputra.dev](https://www.rifqysaputra.dev/) | ![portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff) |
+| 💼 **LinkedIn** | [muhammad-rifqy-saputra](https://www.linkedin.com/in/muhamad-rifky-saputra-8a01782ba/) | ![linked](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) |
+| 📸 **Instagram** | [@rfqy_sptr](@ rfqy_sptr) ) | ![insta](https://img.shields.io/badge/-Follow_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) |
+| 🐙 **GitHub** | [@muris11](https://github.com/muris11) | ![gh](https://img.shields.io/badge/-Follow_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white) |
+| 📧 **Email** | [Send Email](mailto:rifqysaputra1102@gmail.com) | ![email](https://img.shields.io/badge/-Drop_Email-MEA4335?style=for-the-badge&logo=gmail&logoColor=white) |
+| 🎓 **Academic** | [Contact](mailto:rifqysaputra11@student.polindra.ac.id) | ![acad](https://img.shields.io/badge/-Academic_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) |
+
+</div>
+
+<div align="center">
+
+### Thank You For Visiting! 🙏
+
+<img src="https://komarev.com/ghpvc/?username=muris11&label=Thanks_For_Visiting&color=1f6feb&&style=flat-square" alt="Visitors Count" />
+
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+*"Don't watch the clock; do what it does. Keep going."* – Sam Levenson
+
+</div>
+
+<!-- 🌊 Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=fadeIn" />
+
+<div align="center">
+
+❤️ Made with passion & determination by **Muhammad Rifqy Saputra**
+
+⭐ [Star my repositories](https://github.com/muris11) if they helped you!
 
 </div>
