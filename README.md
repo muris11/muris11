@@ -1,139 +1,306 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Muhammad%20Rifqy%20Saputra&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=30" />
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Muhammad%20Rifqy%20Saputra&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Flutter%20Developer&descSize=16&descAlignY=55&descColor=58a6ff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Flutter+Developer;Open+to+Collaboration" alt="Typing SVG" />
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+intelligent+web+%26+mobile+solutions;GPA+3.97%2F4.00+%7C+Politeknik+Negeri+Indramayu;Laravel+%7C+Next.js+%7C+Flutter+%7C+FastAPI;Open+to+Work+%26+Collaboration" alt="Typing SVG" />
 
-<br/>
+<!-- Profile Badges -->
+<p>
+  <a href="https://www.rifqysaputra.dev">
+    <img src="https://img.shields.io/badge/-rifqysaputra.dev-000?style=for-the-badge&logo=google-chrome&logoColor=58a6ff"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-rifqy-saputra/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/rfqy_sptr">
+    <img src="https://img.shields.io/badge/-@rfqy__sptr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:rifqysaputra1102@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://www.rifqysaputra.dev">
-  <img src="https://img.shields.io/badge/Portfolio-rifqysaputra.dev-0969da?style=flat-square&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammad-rifqy-saputra/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rifqy%20Saputra-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/rfqy_sptr">
-  <img src="https://img.shields.io/badge/Instagram-@rfqy__sptr-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:rifqysaputra1102@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rifqysaputra1102@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-58a6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-red?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=muris11&label=Visitors&color=1f6feb&style=flat-square" />
+</p>
+
+<a href="https://github.com/muris11">
+  <img src="https://img.shields.io/github/followers/muris11?label=Followers&style=social" />
 </a>
 
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-An active 6th-semester student in **Smart Information Systems** at Politeknik Negeri Indramayu with a GPA of **3.97/4.00**. Passionate about Full Stack Development, Machine Learning, and building real-world solutions that matter.
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Currently serving as **Head of Research & Development Division** at HIMA-SIKC, leading programs to enhance students' academic and technical competencies.
+Active 6th-semester student in **Smart City Information Systems** at Politeknik Negeri Indramayu with a GPA of **3.97/4.00**. Passionate about building real-world solutions through Full Stack Development, Machine Learning, and Mobile Apps.
 
-- Available for work and collaboration
-- Based in Indonesia
+```typescript
+const rifqy = {
+  role: "Full Stack & Mobile Developer",
+  education: "D4 Smart City Information Systems - Polindra",
+  gpa: "3.97/4.00",
+  currentFocus: ["Laravel", "Next.js", "Flutter", "FastAPI", "AI Integration"],
+  languages: ["PHP", "JavaScript", "Dart", "Python", "Go", "Java", "C++"],
+  askMeAbout: ["Web Dev", "Mobile Apps", "AI/ML", "REST APIs"],
+  portfolio: "https://www.rifqysaputra.dev",
+};
+```
 
----
+<details>
+<summary><b>🎯 What I'm Currently Doing</b></summary>
+<br>
 
-## Tech Stack
+- 🔭 Building **AI-powered applications** and **POS systems** for Indonesian MSMEs
+- 🌱 Deepening expertise in **Laravel 12**, **Next.js**, **Flutter**, and **FastAPI**
+- 🤝 Leading **R&D Division** at HIMA-SIKC (Student Association)
+- 💼 Open for **freelance**, **internship**, and **full-time** opportunities
+- 📫 Reach me at **rifqysaputra1102@gmail.com**
 
-**Languages**
+</details>
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-**Frameworks & Libraries**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<div align="center">
 
-**Databases & Tools**
+<img src="https://skillicons.dev/icons?i=php,js,dart,python,go,java,cpp,html,css&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,flutter,tailwind,bootstrap,fastapi&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,sqlite,firebase,git,vscode,docker&perline=8" />
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</div>
 
----
+<details>
+<summary><b>📋 Detailed Breakdown</b></summary>
+<br>
 
-## Featured Projects
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | PHP, JavaScript, Dart, Python, Go, Java, C++, HTML, CSS |
+| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap, Alpine.js |
+| **Backend** | Laravel 12, FastAPI, Node.js, REST API |
+| **Mobile** | Flutter, Dart, Firebase Integration |
+| **Database** | MySQL, PostgreSQL, Supabase, SQLite, Firebase |
+| **AI/ML** | Google Gemini AI, Fuzzy Logic (Tsukamoto), FastAPI ML Services |
+| **Tools** | Git, Docker, VS Code, Laragon, XAMPP, Vercel |
+
+</details>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muris11&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=muris11&theme=github-dark-blue&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muris11&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+
+</div>
+
+<details>
+<summary><b>📊 More Analytics</b></summary>
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muris11&theme=github_dark" width="95%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muris11&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muris11&theme=github_dark" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muris11&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+</details>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muris11&theme=darkhub&no-frame=true&column=7&margin-w=10" width="95%" />
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> Featured Projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=15%2B+Projects+%7C+10%2B+Live+Deployments+%7C+AI+Powered" alt="Projects" />
+
+</div>
+
+<div align="center">
 
 <a href="https://github.com/muris11/pos_ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=pos_ai&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/muris11/AI-Study-Planner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=AI-Study-Planner&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/muris11/groupify-ai-nextjs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=groupify-ai-nextjs&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/muris11/AI-Study-Planner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=AI-Study-Planner&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/muris11/fuzzy-tsukamoto-disease-prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muris11&repo=fuzzy-tsukamoto-disease-prediction&theme=github_dark&hide_border=true" />
 </a>
 
-> See all projects at [rifqysaputra.dev/projects](https://www.rifqysaputra.dev/projects)
+</div>
 
----
+<details>
+<summary><b>🚀 All Featured Projects</b></summary>
+<br>
 
-## GitHub Stats
+### AI & Machine Learning
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| **NiagaFlow** | Modern POS & online store for Indonesian MSMEs | React, Laravel, MySQL, Tailwind | [Live](https://pos.getmuris.my.id/) |
+| **Groupora AI** | AI-powered team formation using Google Gemini | Next.js, Supabase, PostgreSQL, Gemini | [Live](https://grouporaai.getmuris.my.id/) |
+| **AI Study Planner** | Intelligent study scheduler with AI recommendations | Laravel 12, FastAPI, Python, MySQL | [Live](https://studyplannerai.getmuris.my.id/) |
+| **DiagnoFuzzy** | Disease prediction using Fuzzy Tsukamoto method | Flutter, Dart, FastAPI, Python | [Source](https://github.com/muris11/Fuzzy-Tsukamoto-Flutter) |
+| **Fuzzy Tsukamoto API** | Medical decision support REST API | Python, FastAPI, Fuzzy Logic | [Live](https://fuzzy-tsukamoto-disease-prediction.vercel.app/) |
+
+### Web Applications
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| **Gastronomi.id** | Event platform with backend migration Flask → Laravel | React, Laravel, MySQL | [Live](https://gastronomi.id) |
+| **Red Calender** | Women's health tracking platform | Next.js, Supabase, Tailwind CSS | [Live](https://redcalender.com) |
+| **MUNIR JAYA ABADI** | Agricultural e-commerce platform | Laravel 12, Tailwind, MySQL, Gemini | [Source](https://github.com/muris11/ecommerce_project2) |
+| **Falaah Tracking** | Muslim spiritual productivity tracker | Next.js, Grok API | [Live](https://falaah.vercel.app) |
+| **UMKM Jabar Portal** | MSME data portal for West Java | Next.js | [Live](https://umkmjabar.vercel.app) |
+| **Ecotrust Indramayu** | Smart City BI for environmental data | React | [Source](https://github.com/muris11) |
+
+### Mobile Applications
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **QTASK** | Academic task manager with PDF reports | Flutter, Dart, Firebase |
+| **CASHQ** | Personal finance tracker | Flutter, Dart, Firebase Auth |
+| **APP Ecommerce MJA** | E-commerce mobile app | Flutter, Dart, Firebase |
+| **DiagnoFuzzy App** | Disease prediction mobile app | Flutter, Dart, REST API |
+
+</details>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> Experience
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| **Head of R&D Division** | HIMA-SIKC, Politeknik Negeri Indramayu | Aug 2024 – Jul 2025 |
+| **General Secretary** | Mahasiswa Jabodetabek Polindra | Jun 2024 – Jun 2025 |
+| **Young Staff, Foreign Affairs** | BEM Politeknik Negeri Indramayu | 2023 – 2024 |
+| **Internship** | Universitas Telkom Purwokerto | Jan 2022 – Apr 2022 |
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎓 Education
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muris11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=muris11&theme=github-dark-blue&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muris11&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+| Institution | Program | Period | GPA |
+|-------------|---------|--------|-----|
+| **Politeknik Negeri Indramayu** | D4 Smart City Information Systems | 2023 – 2027 | **3.97/4.00** |
+| **SMKS Telekomunikasi Telesandi** | Computer & Network Engineering | 2020 – 2023 | — |
 
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Education
-
-**Politeknik Negeri Indramayu** — D4 Smart City Information Systems  
-GPA: 3.97 / 4.00 | 2023 – 2027
-
----
-
-## Certifications
-
-- Belajar Back-End Pemula dengan JavaScript — Dicoding
-- Belajar Fundamental Deep Learning — Pijak x IBM SkillsBuild
-- Membangun Sistem Machine Learning — Pijak by Dicoding
-- AI Praktis untuk Produktivitas — Dicoding
-
----
-
-## Connect
+## 📜 Certifications
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/rifqysaputra.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rifqysaputra.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rifqy-saputra/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rfqy_sptr)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifqysaputra1102@gmail.com)
+| Certificate | Issuer |
+|-------------|--------|
+| Belajar Back-End Pemula dengan JavaScript | Dicoding |
+| Belajar Fundamental Deep Learning | Pijak x IBM SkillsBuild by Dicoding |
+| Membangun Sistem Machine Learning | Pijak by Dicoding |
+| AI Praktis untuk Produktivitas | Dicoding |
+
+> View all certifications at [rifqysaputra.dev/certificates](https://www.rifqysaputra.dev/certificates)
 
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=muris11&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-
-*Open to collaboration — let's build something meaningful together.*
+![Snake animation](https://raw.githubusercontent.com/muris11/muris11/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" />
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Connect With Me
+
+<div align="center">
+
+<a href="https://www.rifqysaputra.dev">
+  <img src="https://img.shields.io/badge/Portfolio-rifqysaputra.dev-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammad-rifqy-saputra/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rifqy%20Saputra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/rfqy_sptr">
+  <img src="https://img.shields.io/badge/Instagram-@rfqy__sptr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/muris11">
+  <img src="https://img.shields.io/badge/GitHub-muris11-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:rifqysaputra1102@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rifqysaputra1102-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💬 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer&animation=twinkling" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=8b949e&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+Let's+build+together." alt="Footer" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=muris11&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
+
+**Made with dedication by [Muhammad Rifqy Saputra](https://www.rifqysaputra.dev)**
+
+</div>
