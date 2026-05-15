@@ -27,7 +27,7 @@
 <!-- 🏷️ Status Badges -->
 <p>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=flat-square&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-brightgreen?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQiMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAwaDIwdjIwSDB6IiBmaWxsPSIjMTZhMWVlIi8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Based_in-Indonesia_%F0%9F%87%AE%F0%9F%87%A9-red?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=muris11&label=Profile%20Views&color=1f6feb&style=flat-square" />
 </p>
@@ -134,7 +134,7 @@ const rifqy = {
 | **Backend** | Laravel 12, FastAPI, Node.js, Express.js | ⭐⭐⭐⭐☆ |
 | **Mobile** | Flutter, Dart, Firebase SDK, Responsive UI | ⭐⭐⭐⭐⭐ |
 | **Database** | MySQL, PostgreSQL, Supabase, SQLite, Firebase | ⭐⭐⭐⭐☆ |
-| **AI/ML** | Google Gemini AI, Fuzzy Logic (Tsukamoto), FastAPI ML Services, Deep Learning Fundamentals | ⭐⭐⭐☆☆ |
+| **AI/ML** | Google Gemini AI, Fuzzy Logic (Tsukamoto), FastAPI ML Services | ⭐⭐⭐☆☆ |
 | **Tools** | Git, Docker, VS Code, Laragon, XAMPP, Vercel, Render, Railway | ⭐⭐⭐⭐☆ |
 | **Payment** | Midtrans Payment Gateway Integration | ⭐⭐⭐⭐☆ |
 | **Design** | Responsive Design, Modern UI/UX, Dashboard Development | ⭐⭐⭐☆☆ |
@@ -364,7 +364,7 @@ const rifqy = {
 | **🏫 SDN Wanasari 01** | Primary School | 2011 – 2017 | Strong foundation in academics & character development |
 | **🏫 SMPN 06 Cibitung** | Junior High School | 2017 – 2020 | Active in Scouts (Pramuka) & traditional dance performances |
 | **🏫 SMKS Telekomunikasi Telesandi Bekasi** | TKJ - Computer & Network Engineering | 2020 – 2023 | Completed Mikrotik Competency Test (UKK) • Final project: Temperature/Humidity IoT Monitor with Arduino Uno + DHT11 • Accepted via SNBP to Polindra |
-| **🎓 Politeknik Nageri Indramayu** | D4 Smart City Information Systems | 2023 – Present | GPA **3.97/4.00** • Multiple leadership roles |
+| **🎓 Politeknik Negeri Indramayu** | D4 Smart City Information Systems | 2023 – Present | GPA **3.97/4.00** • Multiple leadership roles |
 
 </div>
 
@@ -471,7 +471,7 @@ To enable this section:
 
 ### My Development Philosophy
 
-> *"Code is like humor — when you have to explain it, it’s bad."* – Cory House  
+> *"Code is like humor — when you have to explain it, it's bad."* – Cory House  
 > *"First solve the problem, then write the code."* – John Johnson
 
 ✅ Always follow best practices  
@@ -501,7 +501,7 @@ To enable this section:
 
 ## 🤝 Open for Collaboration
 
-I’m always excited to work on innovative projects! Whether it’s:
+I'm always excited to work on innovative projects! Whether it's:
 
 ✨ **Open Source Contributions**  
 🤖 **AI-Powered Applications**   
@@ -524,10 +524,10 @@ Feel free to reach out — let's build something amazing together! 🚀
 | Platform | Link | Badge |
 |----------|------|-------|
 | 🌐 **Portfolio** | [rifqysaputra.dev](https://www.rifqysaputra.dev/) | ![portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff) |
-| 💼 **LinkedIn** | [muhammad-rifqy-saputra](https://www.linkedin.com/in/muhamad-rifky-saputra-8a01782ba/) | ![linked](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) |
-| 📸 **Instagram** | [@rfqy_sptr](@ rfqy_sptr) ) | ![insta](https://img.shields.io/badge/-Follow_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) |
+| 💼 **LinkedIn** | [muhammad-rifqy-saputra](https://www.linkedin.com/in/muhammad-rifqy-saputra/) | ![linked](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) |
+| 📸 **Instagram** | [@rfqy_sptr](https://instagram.com/rfqy_sptr) | ![insta](https://img.shields.io/badge/-Follow_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) |
 | 🐙 **GitHub** | [@muris11](https://github.com/muris11) | ![gh](https://img.shields.io/badge/-Follow_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white) |
-| 📧 **Email** | [Send Email](mailto:rifqysaputra1102@gmail.com) | ![email](https://img.shields.io/badge/-Drop_Email-MEA4335?style=for-the-badge&logo=gmail&logoColor=white) |
+| 📧 **Email** | [Send Email](mailto:rifqysaputra1102@gmail.com) | ![email](https://img.shields.io/badge/-Drop_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white) |
 | 🎓 **Academic** | [Contact](mailto:rifqysaputra11@student.polindra.ac.id) | ![acad](https://img.shields.io/badge/-Academic_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) |
 
 </div>
