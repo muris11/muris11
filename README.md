@@ -136,6 +136,9 @@ Currently **Head of Research &amp; Development** at HIMA-SIKC, leading technical
 
 ## GitHub Analytics
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
 
 <img width="49%" src="https://streak-stats.demolab.com?user=muris11&theme=github-dark-blue&hide_border=true&locale=en&mode=daily&type=weeks" alt="GitHub contribution streak stats" />
@@ -159,6 +162,11 @@ Currently **Head of Research &amp; Development** at HIMA-SIKC, leading technical
 </div>
 
 ---
+
+## Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
