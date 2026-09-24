@@ -33,15 +33,19 @@
 
 ## About Me
 
+<a href="https://storyset.com/illustration/javascript-frameworks/amico"><img align="right" width="340" src="https://stories.freepiklabs.com/storage/12428/javascript-frameworks-amico-1556.png" alt="Illustration of a developer building with JavaScript frameworks" /></a>
+
 I'm pursuing a D4 in **Smart City Information Systems** at [Politeknik Negeri Indramayu](https://www.polindra.ac.id/) (GPA **3.98/4.00**). I enjoy taking ideas from problem discovery through implementation—whether that's a business workflow, a useful web product, or an AI-assisted tool.
 
 My work ranges from POS and e-commerce systems for local businesses to decision-support tools using fuzzy logic and machine learning. I also served as **Head of Research &amp; Development** at HIMA-SIKC, leading technical initiatives and mentoring peers.
 
-| Now | Details |
-|---|---|
-| **Building** | Full-stack products, mobile apps, and practical AI features |
-| **Exploring** | Cloud architecture, microservices, and ML pipelines |
-| **Happy to discuss** | Laravel, Next.js, Flutter, REST APIs, and system design |
+- 🧑‍💻 **Building:** full-stack products, mobile apps, and practical AI features
+- 🌱 **Exploring:** cloud architecture, microservices, and ML pipelines
+- 💬 **Happy to discuss:** Laravel, Next.js, Flutter, REST APIs, and system design
+
+<br clear="right" />
+
+<sub>Illustration by [Storyset](https://storyset.com/illustration/javascript-frameworks/amico)</sub>
 
 ---
 
@@ -138,7 +142,15 @@ An open-source toolkit that helps AI coding agents avoid generic interface, writ
 </div>
 
 <details>
-<summary><b>More GitHub activity</b></summary>
+<summary><b>GitHub City &amp; more activity</b></summary>
+
+<br />
+
+<img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D view of GitHub contributions and activity" />
+
+<br />
+
+<img width="100%" src="https://raw.githubusercontent.com/muris11/muris11/main/metrics-city.svg" alt="3D GitHub City built from my contribution activity" />
 
 <br />
 

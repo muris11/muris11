@@ -50,3 +50,26 @@ jobs:
 
           plugin_repositories: yes
           plugin_repositories_forks: no
+
+      - name: Get current year
+        id: year
+        run: echo "year=$(date -u +%Y)" >> "$GITHUB_OUTPUT"
+
+      - name: Generate 3D GitHub City
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics-city.svg
+          user: muris11
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: ${{ steps.year.outputs.year }}
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 0.5
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
