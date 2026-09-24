@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Tagline -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=3DAFE8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=95&lines=Full+Stack+%26+Mobile+Developer+%F0%9F%9A%80;AI+Integration+%7C+D4+Smart+City+Polindra+(GPA+3.98)+%F0%9F%8E%93;Turning+Real-World+Problems+into+Useful+Software!;Building+with+curiosity%2C+shipping+with+purpose." alt="Animated typing tagline: Full Stack &amp; Mobile Developer, AI Integration, Building Tomorrow's Solutions Today" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=3DAFE8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=95&lines=Full+Stack+%26+Mobile+Developer;AI+Integration+%7C+D4+Smart+City+Polindra+(GPA+3.98);Turning+Real-World+Problems+into+Useful+Software!;Building+with+curiosity%2C+shipping+with+purpose." alt="Animated typing tagline: Full Stack &amp; Mobile Developer, AI Integration, Building Tomorrow's Solutions Today" />
 </div>
 
 <!-- Primary Navigation Badges -->
@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=flat-square&logo=checkmarx&logoColor=white" alt="Status: Available for Work" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-blueviolet?style=flat-square&logo=lightning&logoColor=white" alt="Focus: AI &amp; Full Stack" />
-  <img src="https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-1f6feb?style=flat-square" alt="Based in Indonesia" />
+  <img src="https://img.shields.io/badge/Based%20in-Indonesia-1f6feb?style=flat-square" alt="Based in Indonesia" />
   <img src="https://img.shields.io/badge/GPA-3.98%20%2F%204.00-brightgreen?style=flat-square" alt="GPA 3.98 / 4.00" />
   <img src="https://komarev.com/ghpvc/?username=muris11&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="GitHub Profile Views" />
 </p>
@@ -48,7 +48,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28" height="28" valign="middle" alt="About Me" /> About Me
 
 <a href="https://storyset.com/illustration/javascript-frameworks/amico"><img align="right" width="340" src="https://stories.freepiklabs.com/storage/12428/javascript-frameworks-amico-1556.png" alt="Illustration of a developer building with modern frameworks" /></a>
 
@@ -56,10 +56,10 @@ I'm an undergraduate student pursuing a D4 in **Smart City Information Systems**
 
 During my academic journey, I served as **Head of Research &amp; Development** at HIMA-SIKC, leading strategic engineering initiatives, orchestrating tech workshops, and mentoring fellow developers. My work ranges from multi-store POS and e-commerce architectures to decision-support systems utilizing fuzzy logic and modern machine learning pipelines.
 
-- 🧑‍💻 **Building:** Full-stack systems, mobile apps, practical AI workflows, and developer tools
-- 🌱 **Exploring:** Cloud architecture, microservices, and agentic AI systems
-- 💬 **Ask me about:** Laravel 12, Next.js 16, Flutter, REST/GraphQL APIs, and system design
-- ⚡ **Fun fact:** I maintain a 3.98 GPA while actively developing production-ready software!
+- **Building:** Full-stack systems, mobile apps, practical AI workflows, and developer tools
+- **Exploring:** Cloud architecture, microservices, and agentic AI systems
+- **Ask me about:** Laravel 12, Next.js 16, Flutter, REST/GraphQL APIs, and system design
+- **Key highlight:** Maintained a 3.98 GPA while actively developing production-ready software.
 
 <br clear="right" />
 
@@ -74,40 +74,40 @@ const rifqy: Developer = {
     gpa: "3.98 / 4.00",
     status: "Active Student & Tech Lead",
   },
-  location: "Indonesia 🇮🇩",
+  location: "Indonesia",
   contact: {
     email: "rifqysaputra1102@gmail.com",
     academic: "rifqysaputra11@student.polindra.ac.id",
     portfolio: "https://www.rifqysaputra.dev",
   },
   focusAreas: [
-    "💻 Full-Stack Web Architecture (Next.js 16, React 19, Laravel 12)",
-    "📱 Cross-Platform Mobile Applications (Flutter & Dart)",
-    "🤖 Practical AI & Decision Systems (Gemini AI, FastAPI, Fuzzy Logic)",
-    "☁️ Cloud Microservices & Scalable Deployment (Docker, CI/CD)",
+    "Full-Stack Web Architecture (Next.js 16, React 19, Laravel 12)",
+    "Cross-Platform Mobile Applications (Flutter & Dart)",
+    "Practical AI & Decision Systems (Gemini AI, FastAPI, Fuzzy Logic)",
+    "Cloud Microservices & Scalable Deployment (Docker, CI/CD)",
   ],
-  lifePhilosophy: "Code with passion, build with purpose 💡",
+  lifePhilosophy: "Code with passion, build with purpose.",
 };
 
 export default rifqy;
 ```
 
 <details>
-<summary><b>🎯 What I'm Currently Doing &amp; Learning</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/target.png" width="18" height="18" valign="middle" alt="Target" /> <b>What I'm Currently Doing &amp; Learning</b></summary>
 <br>
 
-- 🔭 Building **AI-powered applications** with Google Gemini and autonomous agent workflows
-- 🚀 Shipping **Kompresio** (privacy-first image toolkit) and **POS UMKM** (multi-store cashier platform)
-- 📦 Maintaining **[anti-ai-slop](https://github.com/muris11/anti-ai-slop)**, an open-source toolkit with 17 agent skills
-- 🤝 Open to **freelance engagements**, **internships**, and **full-stack software collaborations**
-- 📫 Direct inquiries: **rifqysaputra1102@gmail.com**
+- Building **AI-powered applications** with Google Gemini and autonomous agent workflows
+- Shipping **Kompresio** (privacy-first image toolkit) and **POS UMKM** (multi-store cashier platform)
+- Maintaining **[anti-ai-slop](https://github.com/muris11/anti-ai-slop)**, an open-source toolkit with 17 agent skills
+- Open to **freelance engagements**, **internships**, and **full-stack software collaborations**
+- Direct inquiries: **rifqysaputra1102@gmail.com**
 
 </details>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack &amp; Skills
+## <img src="https://img.icons8.com/fluency/48/source-code.png" width="28" height="28" valign="middle" alt="Tech Stack" /> Tech Stack &amp; Skills
 
 <!-- Core Technology Shields -->
 <p align="center">
@@ -142,7 +142,7 @@ export default rifqy;
 <br>
 
 <details open>
-<summary><b>🎨 Frontend Technologies</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/source-code.png" width="20" height="20" valign="middle" alt="Frontend" /> <b>Frontend Technologies</b></summary>
 <br>
 
 | Category | Technologies &amp; Libraries |
@@ -155,7 +155,7 @@ export default rifqy;
 </details>
 
 <details>
-<summary><b>⚙️ Backend &amp; API Engineering</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/console.png" width="20" height="20" valign="middle" alt="Backend" /> <b>Backend &amp; API Engineering</b></summary>
 <br>
 
 | Category | Technologies &amp; Architecture |
@@ -169,7 +169,7 @@ export default rifqy;
 </details>
 
 <details>
-<summary><b>📱 Mobile Application Development</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/smartphone.png" width="20" height="20" valign="middle" alt="Mobile" /> <b>Mobile Application Development</b></summary>
 <br>
 
 | Category | Technologies &amp; Frameworks |
@@ -182,7 +182,7 @@ export default rifqy;
 </details>
 
 <details>
-<summary><b>🗄️ Database &amp; Cloud Storage</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/database.png" width="20" height="20" valign="middle" alt="Database" /> <b>Database &amp; Cloud Storage</b></summary>
 <br>
 
 | Category | Engines &amp; ORMs |
@@ -195,7 +195,7 @@ export default rifqy;
 </details>
 
 <details>
-<summary><b>🤖 AI &amp; Intelligent Systems</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="20" height="20" valign="middle" alt="AI" /> <b>AI &amp; Intelligent Systems</b></summary>
 <br>
 
 | Category | Technologies &amp; Implementations |
@@ -207,7 +207,7 @@ export default rifqy;
 </details>
 
 <details>
-<summary><b>☁️ DevOps, Cloud &amp; Infrastructure</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/cloud.png" width="20" height="20" valign="middle" alt="DevOps" /> <b>DevOps, Cloud &amp; Infrastructure</b></summary>
 <br>
 
 | Category | Platforms &amp; Workflows |
@@ -220,7 +220,7 @@ export default rifqy;
 </details>
 
 <details>
-<summary><b>💳 Payments &amp; Integrations</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/bank-cards.png" width="20" height="20" valign="middle" alt="Payments" /> <b>Payments &amp; Integrations</b></summary>
 <br>
 
 | Category | Services &amp; Tools |
@@ -234,7 +234,7 @@ export default rifqy;
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## 🌟 Technical Architecture
+## <img src="https://img.icons8.com/fluency/48/flow-chart.png" width="28" height="28" valign="middle" alt="Architecture" /> Technical Architecture
 
 ```mermaid
 graph TB
@@ -262,7 +262,7 @@ graph TB
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> Featured Projects &amp; Showcase
+## <img src="https://img.icons8.com/fluency/48/layers.png" width="28" height="28" valign="middle" alt="Projects" /> Featured Projects &amp; Showcase
 
 <div align="center">
 
@@ -324,10 +324,10 @@ An open-source quality filter and prompt harness for AI coding assistants (Claud
 <br>
 
 <details open>
-<summary><b>🤖 AI-Powered Applications (Detailed Specifications)</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="18" height="18" valign="middle" alt="AI" /> <b>AI-Powered Applications (Detailed Specifications)</b></summary>
 <br>
 
-#### 1. 🎯 Groupora AI — Intelligent Team Formation Platform
+#### 1. Groupora AI — Intelligent Team Formation Platform
 ```yaml
 Name: Groupora AI (Groupify AI)
 Description: AI-powered intelligent team formation using Google Gemini AI
@@ -336,7 +336,7 @@ Features: Automated personality/skill clustering, smart group recommendations, P
 Repository: https://github.com/muris11/groupify-ai-nextjs
 ```
 
-#### 2. 🏥 Fuzzy Tsukamoto Disease Prediction
+#### 2. Fuzzy Tsukamoto Disease Prediction
 ```yaml
 Name: Fuzzy Tsukamoto Disease Prediction System
 Description: Clinical decision-support system implementing Tsukamoto fuzzy logic with 90%+ diagnostic accuracy
@@ -345,7 +345,7 @@ Features: Rule-based inference engine, medical informatics API, verifiable diagn
 Repository: https://github.com/muris11/fuzzy-tsukamoto-disease-prediction
 ```
 
-#### 3. 📚 AI Study Planner — Smart Productivity Assistant
+#### 3. AI Study Planner — Smart Productivity Assistant
 ```yaml
 Name: AI Study Planner
 Description: AI-driven personalized study scheduler with dynamic task prioritization
@@ -354,7 +354,7 @@ Features: Smart calendar scheduling, milestone tracking, automated progress anal
 Repository: https://github.com/muris11/AI-Study-Planner
 ```
 
-#### 4. 📱 Fuzzy Tsukamoto Mobile (Flutter)
+#### 4. Fuzzy Tsukamoto Mobile (Flutter)
 ```yaml
 Name: Fuzzy Tsukamoto Flutter App
 Description: Cross-platform mobile client for real-time medical decision queries
@@ -366,10 +366,10 @@ Repository: https://github.com/muris11/Fuzzy-Tsukamoto-Flutter
 </details>
 
 <details>
-<summary><b>💼 Business &amp; E-Commerce Platforms</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/briefcase.png" width="18" height="18" valign="middle" alt="Business" /> <b>Business &amp; E-Commerce Platforms</b></summary>
 <br>
 
-#### 1. 🏪 POS UMKM — Point of Sale Management
+#### 1. POS UMKM — Point of Sale Management
 ```yaml
 Name: POS UMKM
 Description: Multi-outlet retail POS system for Indonesian small and medium enterprises
@@ -378,7 +378,7 @@ Features: Real-time stock audit, cashier invoice printing, Midtrans Snap & QRIS
 Repository: https://github.com/muris11/Pos-UMKM-Laravel-12
 ```
 
-#### 2. 💰 Smart Budget Planner
+#### 2. Smart Budget Planner
 ```yaml
 Name: Smart Budget Planner
 Description: Personal financial planning and budget tracking dashboard for students
@@ -387,7 +387,7 @@ Features: Expense categorization, visual financial charts, goal tracking
 Repository: https://github.com/muris11/task-manager
 ```
 
-#### 3. 🛍️ E-Commerce Platform
+#### 3. E-Commerce Platform
 ```yaml
 Name: E-Commerce Storefront
 Description: Complete online store solution with product catalog and order management
@@ -399,10 +399,10 @@ Repository: https://github.com/muris11/ecommerce_project2
 </details>
 
 <details>
-<summary><b>🎓 Smart City &amp; Academic Systems</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="18" height="18" valign="middle" alt="Academic" /> <b>Smart City &amp; Academic Systems</b></summary>
 <br>
 
-#### 1. 📖 Mini Library Smart City
+#### 1. Mini Library Smart City
 ```yaml
 Name: Mini Library Smart City
 Description: Digital municipal library repository managing collections and active memberships
@@ -411,7 +411,7 @@ Features: Circulation analytics, member borrowing logs, book search & reservatio
 Repository: https://github.com/muris11/minilibrary-smartcity
 ```
 
-#### 2. 🎓 Mahasi — Student Aspiration Portal
+#### 2. Mahasi — Student Aspiration Portal
 ```yaml
 Name: Mahasi Student Portal
 Description: Digital civic engagement platform uniting student voices with faculty resolution
@@ -420,7 +420,7 @@ Features: Aspiration moderation, public discussion boards, admin case tracking
 Repository: https://github.com/muris11/mahasi_project1
 ```
 
-#### 3. 🎯 SIKCB 2023 — Cohort Learning Portal
+#### 3. SIKCB 2023 — Cohort Learning Portal
 ```yaml
 Name: SIKCB Learning Portal
 Description: Interactive cohort archive documenting academic milestones, curriculum modules, and project repositories
@@ -429,7 +429,7 @@ Features: Semester archive, project documentation, material access
 Repository: https://github.com/muris11/SIKCB-2023
 ```
 
-#### 4. 🔷 Golang Fundamentals &amp; Concurrency
+#### 4. Golang Fundamentals &amp; Concurrency
 ```yaml
 Name: Golang Basic & Clean Architecture
 Description: Comprehensive codebase of idiomatic Go programming patterns and concurrency routines
@@ -444,9 +444,9 @@ Repository: https://github.com/muris11/golang-basic
 
 <div align="center">
 
-### 📊 Portfolio Impact at a Glance
+### Portfolio Impact at a Glance
 
-| 🚀 Total Projects | 🌐 Live Deployments | 🤖 AI Integrations | 💼 Business Systems | 🎓 Academic Platforms | 💻 Languages | 👥 Users Impacted |
+| Total Projects | Live Deployments | AI Integrations | Business Systems | Academic Platforms | Languages | Users Impacted |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **24+** | **10+** | **4** | **3** | **5** | **9 Languages** | **1000+** |
 
@@ -455,37 +455,37 @@ Repository: https://github.com/muris11/golang-basic
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## 🎨 Engineering Standards &amp; Values
+## <img src="https://img.icons8.com/fluency/48/guarantee.png" width="28" height="28" valign="middle" alt="Engineering Standards" /> Engineering Standards &amp; Values
 
 <div align="center">
 
-### 🌟 What Sets My Work Apart?
+### What Sets My Work Apart?
 
 | Pillar | Standard &amp; Execution |
 |---|---|
-| 🤖 **Practical AI Integration** | Leveraging Gemini AI &amp; LLM tooling for high-utility workflows, not just superficial chat wrappers. |
-| 📱 **Responsive &amp; Cross-Platform** | Pixel-perfect responsiveness across mobile, tablet, and widescreen desktop viewports. |
-| 💳 **Transactional Readiness** | Production-grade checkout flows integrated with Midtrans Payment Gateway. |
-| 🎯 **Intuitive &amp; Accessible UX** | Designed with high visual hierarchy, clean contrast, and fluid micro-interactions. |
-| 📊 **Data-Driven Architecture** | Real-time analytics, robust relational schema design, and performant indexing. |
-| 🔒 **Enterprise-Grade Security** | Sanitized inputs, CSRF/XSS protection, JWT/Sanctum authentication, and rate limiting. |
-| ⚡ **Zero-Latency Performance** | In-browser client-side processing where possible (e.g. Kompresio), optimized bundle sizes. |
+| **Practical AI Integration** | Leveraging Gemini AI &amp; LLM tooling for high-utility workflows, not just superficial chat wrappers. |
+| **Responsive &amp; Cross-Platform** | Pixel-perfect responsiveness across mobile, tablet, and widescreen desktop viewports. |
+| **Transactional Readiness** | Production-grade checkout flows integrated with Midtrans Payment Gateway. |
+| **Intuitive &amp; Accessible UX** | Designed with high visual hierarchy, clean contrast, and fluid micro-interactions. |
+| **Data-Driven Architecture** | Real-time analytics, robust relational schema design, and performant indexing. |
+| **Enterprise-Grade Security** | Sanitized inputs, CSRF/XSS protection, JWT/Sanctum authentication, and rate limiting. |
+| **Zero-Latency Performance** | In-browser client-side processing where possible (e.g. Kompresio), optimized bundle sizes. |
 
-### 💻 Engineering Philosophy
+### Engineering Philosophy
 
 > *"Building solutions that matter, one line of code at a time."*
 
-- ✅ **Clean Code:** Self-documenting, maintainable, modular, and testable architectures.
-- ✅ **Best Practices:** Strict adherence to modern industry standards (SOLID, DRY, Clean Architecture).
-- ✅ **Continuous Learning:** Relentlessly exploring emergent tech (Agentic AI, Microservices, Cloud).
-- ✅ **User-Centric:** Solving genuine pain points for real users and MSMEs.
+- **Clean Code:** Self-documenting, maintainable, modular, and testable architectures.
+- **Best Practices:** Strict adherence to modern industry standards (SOLID, DRY, Clean Architecture).
+- **Continuous Learning:** Relentlessly exploring emergent tech (Agentic AI, Microservices, Cloud).
+- **User-Centric:** Solving genuine pain points for real users and MSMEs.
 
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## 💼 Professional Experience &amp; Leadership
+## <img src="https://img.icons8.com/fluency/48/briefcase.png" width="28" height="28" valign="middle" alt="Experience" /> Professional Experience &amp; Leadership
 
 | Role | Organization | Period | Core Responsibilities &amp; Impact |
 |---|---|---|---|
@@ -496,7 +496,7 @@ Repository: https://github.com/muris11/golang-basic
 
 ---
 
-## 🎓 Education &amp; Academic Honors
+## <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="28" height="28" valign="middle" alt="Education" /> Education &amp; Academic Honors
 
 | Institution | Degree &amp; Major | Period | Honors &amp; Focus |
 |---|---|---|---|
@@ -507,7 +507,7 @@ Repository: https://github.com/muris11/golang-basic
 
 ---
 
-## 📜 Professional Certifications
+## <img src="https://img.icons8.com/fluency/48/certificate.png" width="28" height="28" valign="middle" alt="Certifications" /> Professional Certifications
 
 | Certification | Issuing Organization | Area of Verification |
 |---|---|---|
@@ -519,29 +519,29 @@ Repository: https://github.com/muris11/golang-basic
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## 🎯 Roadmap &amp; Current Focus
+## <img src="https://img.icons8.com/fluency/48/compass.png" width="28" height="28" valign="middle" alt="Roadmap" /> Roadmap &amp; Current Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Active Priorities
-- ☁️ **Cloud-Native Scalability:** Deep diving into Docker containerization, Kubernetes, and event-driven microservices.
-- 🤖 **Agentic Engineering:** Building autonomous LLM agent systems, deterministic evaluation harnesses, and tool-use workflows.
-- 🛠️ **Open Source Tooling:** Contributing to developer efficiency tools and anti-slop guardrails for modern software teams.
-- 📝 **Technical Writing:** Publishing in-depth engineering breakdowns on dev.to and personal engineering journals.
-- 🏆 **Cloud Certification:** Preparing for AWS / GCP developer certifications.
+### Active Priorities
+- **Cloud-Native Scalability:** Deep diving into Docker containerization, Kubernetes, and event-driven microservices.
+- **Agentic Engineering:** Building autonomous LLM agent systems, deterministic evaluation harnesses, and tool-use workflows.
+- **Open Source Tooling:** Contributing to developer efficiency tools and anti-slop guardrails for modern software teams.
+- **Technical Writing:** Publishing in-depth engineering breakdowns on dev.to and personal engineering journals.
+- **Cloud Certification:** Preparing for AWS / GCP developer certifications.
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ Verified Milestones
-- 🎓 Maintained **GPA 3.98 / 4.00** in D4 Smart City Information Systems at Polindra.
-- ⚡ Shipped **[Kompresio](https://kompresio-nextjs.vercel.app/)** with client-side image processing pipelines.
-- 🏪 Deployed **[POS UMKM](https://github.com/muris11/Pos-UMKM-Laravel-12)** with Midtrans payment integration.
-- 📦 Released **[anti-ai-slop](https://github.com/muris11/anti-ai-slop)** open-source toolkit on skills.sh.
-- 👥 Served as **Head of R&amp;D** at HIMA-SIKC leading technical development.
-- 🚀 Created and maintained **24+ software projects** and **10+ live deployments**.
+### Verified Milestones
+- Maintained **GPA 3.98 / 4.00** in D4 Smart City Information Systems at Polindra.
+- Shipped **[Kompresio](https://kompresio-nextjs.vercel.app/)** with client-side image processing pipelines.
+- Deployed **[POS UMKM](https://github.com/muris11/Pos-UMKM-Laravel-12)** with Midtrans payment integration.
+- Released **[anti-ai-slop](https://github.com/muris11/anti-ai-slop)** open-source toolkit on skills.sh.
+- Served as **Head of R&amp;D** at HIMA-SIKC leading technical development.
+- Created and maintained **24+ software projects** and **10+ live deployments**.
 
 </td>
 </tr>
@@ -550,7 +550,7 @@ Repository: https://github.com/muris11/golang-basic
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## 📊 GitHub Analytics &amp; Activity
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" height="28" valign="middle" alt="Analytics" /> GitHub Analytics &amp; Activity
 
 <!-- Auto-updated WakaTime Section -->
 <!--START_SECTION:waka-->
@@ -570,7 +570,7 @@ Repository: https://github.com/muris11/golang-basic
 <br>
 
 <details open>
-<summary><b>📈 Detailed GitHub Analytics &amp; Profile Summary</b></summary>
+<summary><img src="https://img.icons8.com/fluency/48/line-chart.png" width="18" height="18" valign="middle" alt="Chart" /> <b>Detailed GitHub Analytics &amp; Profile Summary</b></summary>
 <br>
 
 <div align="center">
@@ -605,7 +605,7 @@ Repository: https://github.com/muris11/golang-basic
 
 <br>
 
-### 🏙️ 3D Contribution City &amp; Visual Activity
+### <img src="https://img.icons8.com/fluency/48/city.png" width="24" height="24" valign="middle" alt="City" /> 3D Contribution City &amp; Visual Activity
 
 <div align="center">
 
@@ -621,7 +621,7 @@ Repository: https://github.com/muris11/golang-basic
 
 </div>
 
-### 🐍 Contribution Snake
+### <img src="https://img.icons8.com/fluency/48/line-chart.png" width="24" height="24" valign="middle" alt="Activity" /> Contribution Snake
 
 <div align="center">
 
@@ -635,7 +635,7 @@ Repository: https://github.com/muris11/golang-basic
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## 📝 Latest Writing &amp; Publications
+## <img src="https://img.icons8.com/fluency/48/news.png" width="28" height="28" valign="middle" alt="Articles" /> Latest Writing &amp; Publications
 
 Notes and engineering articles, updated automatically via RSS feed.
 
@@ -645,7 +645,7 @@ Notes and engineering articles, updated automatically via RSS feed.
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## 💬 Developer Quote of the Day
+## <img src="https://img.icons8.com/fluency/48/quote.png" width="28" height="28" valign="middle" alt="Quote" /> Developer Quote of the Day
 
 <div align="center">
 
@@ -656,11 +656,11 @@ Notes and engineering articles, updated automatically via RSS feed.
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## 🤝 Let's Connect &amp; Collaborate
+## <img src="https://img.icons8.com/fluency/48/chat.png" width="28" height="28" valign="middle" alt="Connect" /> Let's Connect &amp; Collaborate
 
 <div align="center">
 
-### Interested in building something impactful together? Let's connect! 🚀
+### Interested in building something impactful together? Let's connect!
 
 <table align="center">
 <tr>
@@ -672,7 +672,7 @@ Notes and engineering articles, updated automatically via RSS feed.
   </a>
 </td>
 <td align="center" width="33%">
-  <a href="mailto:rifqysaputra11@student.polindra.ac.id">
+  <a href="mailto:rifqysaputra1102@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" width="45" height="45" alt="Academic Email" /><br>
     <b>Academic Email</b><br>
     <code>rifqysaputra11@student.polindra.ac.id</code>
@@ -738,7 +738,7 @@ Notes and engineering articles, updated automatically via RSS feed.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer Banner" />
 
 <p align="center">
-  Designed &amp; Built with ❤️ by <b>Muhammad Rifqy Saputra</b>
+  Designed &amp; Built by <b>Muhammad Rifqy Saputra</b>
 </p>
 
 </div>
