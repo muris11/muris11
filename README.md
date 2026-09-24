@@ -138,18 +138,16 @@ An open-source toolkit that helps AI coding agents avoid generic interface, writ
 </div>
 
 <details>
-<summary><b>More GitHub activity</b></summary>
+<summary><b>View animated contribution graph</b></summary>
 
 <br />
-
-<img width="100%" src="https://raw.githubusercontent.com/muris11/muris11/main/metrics.svg" alt="GitHub profile metrics, languages, and recent activity" />
-
-</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muris11/muris11/output/github-contribution-grid-snake-dark.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/muris11/muris11/output/github-contribution-grid-snake.svg" alt="Animated snake tracing the GitHub contribution grid" />
 </picture>
+
+</details>
 
 ---
 
