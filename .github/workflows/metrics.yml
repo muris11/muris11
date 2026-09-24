@@ -34,7 +34,7 @@ jobs:
           # Options
           user: muris11
           template: classic
-          base: header, activity, community, repositories
+          base: header, repositories
 
           # Features
           plugin_languages: yes
@@ -43,13 +43,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
 
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-
-          plugin_repositories: yes
-          plugin_repositories_forks: no
 
       - name: Get current year
         id: year
