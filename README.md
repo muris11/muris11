@@ -264,33 +264,6 @@ graph TB
 
 ## <img src="https://img.icons8.com/fluency/48/layers.png" width="28" height="28" valign="middle" alt="Projects" /> Featured Projects &amp; Showcase
 
-<div align="center">
-
-<a href="https://github.com/muris11/kompresio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muris11&repo=kompresio&theme=github_dark&hide_border=true&title_color=58a6ff" alt="Pinned repository: Kompresio" />
-</a>
-<a href="https://github.com/muris11/anti-ai-slop">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muris11&repo=anti-ai-slop&theme=github_dark&hide_border=true&title_color=58a6ff" alt="Pinned repository: anti-ai-slop" />
-</a>
-
-<a href="https://github.com/muris11/Pos-UMKM-Laravel-12">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muris11&repo=Pos-UMKM-Laravel-12&theme=github_dark&hide_border=true&title_color=58a6ff" alt="Pinned repository: Pos UMKM" />
-</a>
-<a href="https://github.com/muris11/groupify-ai-nextjs">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muris11&repo=groupify-ai-nextjs&theme=github_dark&hide_border=true&title_color=58a6ff" alt="Pinned repository: groupify-ai-nextjs" />
-</a>
-
-<a href="https://github.com/muris11/AI-Study-Planner">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muris11&repo=AI-Study-Planner&theme=github_dark&hide_border=true&title_color=58a6ff" alt="Pinned repository: AI-Study-Planner" />
-</a>
-<a href="https://github.com/muris11/fuzzy-tsukamoto-disease-prediction">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muris11&repo=fuzzy-tsukamoto-disease-prediction&theme=github_dark&hide_border=true&title_color=58a6ff" alt="Pinned repository: fuzzy-tsukamoto-disease-prediction" />
-</a>
-
-</div>
-
-<br>
-
 ### 1. [Kompresio](https://kompresio-nextjs.vercel.app/) — Privacy-First Image Toolkit
 
 <a href="https://kompresio-nextjs.vercel.app/"><img align="right" width="360" src="https://kompresio-nextjs.vercel.app/opengraph-image" alt="Kompresio image optimization product preview" /></a>
@@ -558,25 +531,13 @@ Repository: https://github.com/muris11/golang-basic
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muris11&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&icon_color=58a6ff&title_color=58a6ff" height="165" alt="GitHub contribution statistics for muris11" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muris11&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=muris11&title_color=58a6ff" height="165" alt="Top Languages used by muris11" />
+<!-- Profile Details Card (608 contributions, 82 repos, joined 3 years ago, Polindra) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muris11&theme=github_dark" width="98%" alt="GitHub Profile Summary Details" />
 
 <br /><br />
 
+<!-- Streak Statistics Card -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muris11&theme=dark&hide_border=true&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=e6edf3&sideLabels=8b949e&currStreakLabel=58a6ff" alt="GitHub Streak Statistics for muris11" />
-
-</div>
-
-<br>
-
-<details open>
-<summary><img src="https://img.icons8.com/fluency/48/line-chart.png" width="18" height="18" valign="middle" alt="Chart" /> <b>Detailed GitHub Analytics &amp; Profile Summary</b></summary>
-<br>
-
-<div align="center">
-
-<!-- Profile Details Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muris11&theme=github_dark" width="98%" alt="GitHub Profile Summary Details" />
 
 <br /><br />
 
@@ -601,25 +562,23 @@ Repository: https://github.com/muris11/golang-basic
 
 </div>
 
-</details>
-
 <br>
 
 ### <img src="https://img.icons8.com/fluency/48/city.png" width="24" height="24" valign="middle" alt="City" /> 3D Contribution City &amp; Visual Activity
 
 <div align="center">
 
+<!-- 3D Contribution Night View -->
 <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D Night View Contribution Graph" />
 
 <br /><br />
 
-<img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D GitBlock Contribution Graph" />
-
-<br /><br />
-
+<!-- 3D GitHub City Skyline -->
 <img width="100%" src="https://raw.githubusercontent.com/muris11/muris11/main/metrics-city.svg" alt="3D GitHub City built from my contribution activity" />
 
 </div>
+
+<br>
 
 ### <img src="https://img.icons8.com/fluency/48/line-chart.png" width="24" height="24" valign="middle" alt="Activity" /> Contribution Snake
 
@@ -635,26 +594,9 @@ Repository: https://github.com/muris11/golang-basic
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
-## <img src="https://img.icons8.com/fluency/48/news.png" width="28" height="28" valign="middle" alt="Articles" /> Latest Writing &amp; Publications
-
-Notes and engineering articles, updated automatically via RSS feed.
-
+<!-- Hidden hook for blog-post workflow if configured -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
-
-## <img src="https://img.icons8.com/fluency/48/quote.png" width="28" height="28" valign="middle" alt="Quote" /> Developer Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Developer Quote" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
 ## <img src="https://img.icons8.com/fluency/48/chat.png" width="28" height="28" valign="middle" alt="Connect" /> Let's Connect &amp; Collaborate
 
@@ -672,7 +614,7 @@ Notes and engineering articles, updated automatically via RSS feed.
   </a>
 </td>
 <td align="center" width="33%">
-  <a href="mailto:rifqysaputra1102@gmail.com">
+  <a href="mailto:rifqysaputra11@student.polindra.ac.id">
     <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" width="45" height="45" alt="Academic Email" /><br>
     <b>Academic Email</b><br>
     <code>rifqysaputra11@student.polindra.ac.id</code>
