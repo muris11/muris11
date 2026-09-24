@@ -130,7 +130,7 @@ An open-source toolkit that helps AI coding agents avoid generic interface, writ
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -141,10 +141,9 @@ An open-source toolkit that helps AI coding agents avoid generic interface, writ
 
 </div>
 
-<details>
-<summary><b>GitHub City &amp; more activity</b></summary>
+## 3D Contribution City
 
-<br />
+<div align="center">
 
 <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D view of GitHub contributions and activity" />
 
@@ -154,16 +153,28 @@ An open-source toolkit that helps AI coding agents avoid generic interface, writ
 
 <br />
 
+</div>
+
+## GitHub Metrics
+
+<div align="center">
+
 <img width="100%" src="https://raw.githubusercontent.com/muris11/muris11/main/metrics.svg" alt="GitHub metrics for languages, recent activity, and repositories" />
 
 <br />
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muris11/muris11/output/github-contribution-grid-snake-dark.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/muris11/muris11/output/github-contribution-grid-snake.svg" alt="Animated snake tracing the GitHub contribution grid" />
 </picture>
 
-</details>
+</div>
 
 ---
 
