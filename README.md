@@ -523,6 +523,41 @@ Repository: https://github.com/muris11/golang-basic
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 
+## <img src="https://img.icons8.com/fluency/48/medal.png" width="28" height="28" valign="middle" alt="Achievements" /> GitHub Community Achievements
+
+<div align="center">
+
+<a href="https://github.com/muris11?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" alt="Quickdraw Achievement" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/muris11?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO Achievement" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/muris11?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" alt="Pull Shark Achievement" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/muris11?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire Achievement" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/muris11?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="95" alt="Galaxy Brain Achievement" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/muris11?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="95" alt="Starstruck Achievement" />
+</a>
+
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
+
 ## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" height="28" valign="middle" alt="Analytics" /> GitHub Analytics &amp; Activity
 
 <!-- Auto-updated WakaTime Section -->
