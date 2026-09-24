@@ -133,7 +133,7 @@ An open-source toolkit that helps AI coding agents avoid generic interface, writ
 
 <div align="center">
 
-<img width="72%" src="https://github-readme-stats.vercel.app/api?username=muris11&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&icon_color=58a6ff&title_color=58a6ff" alt="GitHub contribution statistics for muris11" />
+<img width="72%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muris11&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&icon_color=58a6ff&title_color=58a6ff" alt="GitHub contribution statistics for muris11" />
 
 </div>
 

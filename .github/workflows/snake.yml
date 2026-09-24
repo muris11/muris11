@@ -28,19 +28,18 @@ jobs:
     steps:
       # Checkout repository
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # Generate snake animation
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: muris11
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Push the generated files to output branch
       - name: Push to output branch
