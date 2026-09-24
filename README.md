@@ -155,16 +155,6 @@ An open-source toolkit that helps AI coding agents avoid generic interface, writ
 
 </div>
 
-## GitHub Metrics
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/muris11/muris11/main/metrics.svg" alt="GitHub metrics for languages, recent activity, and repositories" />
-
-<br />
-
-</div>
-
 ## Contribution Snake
 
 <div align="center">
