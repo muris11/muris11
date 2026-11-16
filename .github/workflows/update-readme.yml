@@ -16,12 +16,15 @@ concurrency:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Update README with GitHub Stats
+        if: ${{ env.WAKATIME_API_KEY != '' }}
         uses: anmol098/waka-readme-stats@v5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -40,6 +43,7 @@ jobs:
           LOCALE: "en"
 
       - name: Push Changes
+        if: ${{ env.WAKATIME_API_KEY != '' }}
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update README with latest data"
